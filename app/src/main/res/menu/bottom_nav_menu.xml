@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_shopping_list"
+        android:icon="@drawable/shopping_cart_24px"
+        android:title="@string/title_shopping_list" />
+
+    <item
+        android:id="@+id/navigation_contacts"
+        android:icon="@drawable/contacts_24px"
+        android:title="@string/title_contacts" />
+
+    <item
+        android:id="@+id/navigation_race"
+        android:icon="@drawable/sprint_24px"
+        android:title="@string/title_race" />
+
+    <item
+        android:id="@+id/navigation_body_metrics"
+        android:icon="@drawable/monitor_weight_24px"
+        android:title="@string/title_body_metrics" />
+
+</menu>

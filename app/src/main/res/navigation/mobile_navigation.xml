@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_shopping_list">
+
+    <fragment
+        android:id="@+id/navigation_shopping_list"
+        android:name="com.example.kotlinhomework3.ShoppingListFragment"
+        android:label="@string/title_shopping_list"
+        tools:layout="@layout/fragment_shopping_list" />
+
+    <fragment
+        android:id="@+id/navigation_contacts"
+        android:name="com.example.kotlinhomework3.ContactsFragment"
+        android:label="@string/title_contacts"
+        tools:layout="@layout/fragment_contacts" />
+
+    <fragment
+        android:id="@+id/navigation_race"
+        android:name="com.example.kotlinhomework3.RaceFragment"
+        android:label="@string/title_race"
+        tools:layout="@layout/fragment_race" />
+
+    <fragment
+        android:id="@+id/navigation_body_metrics"
+        android:name="com.example.kotlinhomework3.BodyMetricsFragment"
+        android:label="@string/title_body_metrics"
+        tools:layout="@layout/fragment_body_metrics" />
+
+</navigation>
