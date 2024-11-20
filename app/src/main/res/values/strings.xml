@@ -26,4 +26,8 @@
     <string name="contacts_confirm">確認新增</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="race_title">龜兔賽跑</string>
+    <string name="race_rabbit">兔子</string>
+    <string name="race_turtle">烏龜</string>
+    <string name="race_start">開始</string>
 </resources>
