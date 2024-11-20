@@ -30,4 +30,18 @@
     <string name="race_rabbit">兔子</string>
     <string name="race_turtle">烏龜</string>
     <string name="race_start">開始</string>
+    <string name="body_metrics_title">體位檢測機</string>
+    <string name="body_metrics_height">身高 :</string>
+    <string name="body_metrics_height_hint">請輸入身高</string>
+    <string name="body_metrics_weight">體重 :</string>
+    <string name="body_metrics_weight_hint">請輸入體重</string>
+    <string name="body_metrics_age">年齡 :</string>
+    <string name="body_metrics_age_hint">請輸入年齡</string>
+    <string name="body_metrics_male">男生</string>
+    <string name="body_metrics_female">女生</string>
+    <string name="body_metrics_calculate">計算</string>
+    <string name="body_metrics_standard_weight">標準體重\n無</string>
+    <string name="body_metrics_body_fat">體脂肪\n無</string>
+    <string name="body_metrics_bmi">BMI\n無</string>
+    <string name="body_metrics_progress">0%</string>
 </resources>
